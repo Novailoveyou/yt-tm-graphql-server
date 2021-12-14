@@ -9,5 +9,3 @@ Year 2021
 ## Resources
 
 - [Graphql](https://graphql.org/)
-- [Apollo](https://www.apollographql.com/)
-- [Mongoose](https://mongoosejs.com/)
