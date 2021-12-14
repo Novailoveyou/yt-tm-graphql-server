@@ -1,0 +1,32 @@
+{
+  "name": "yt-tm-graphql-server",
+  "version": "1.0.0",
+  "description": "This is me following Brad Traversy's [youtube video series](https://youtu.be/PEcJxkylcRM)",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon --exec babel-node -- ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/yt-tm-graphql-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/yt-tm-graphql-server/issues"
+  },
+  "homepage": "https://github.com/Novailoveyou/yt-tm-graphql-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "nodemon": "^2.0.15"
+  }
+}
